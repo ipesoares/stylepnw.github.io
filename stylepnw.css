@@ -996,8 +996,8 @@
 	.f-box .f-box-logo{
 		width:70px;
 		height:70px;
-		background:transparent;
-		border:1px solid #666666;
+		background:#fff;
+		border:1px solid #fff;
 		border-radius:200px;
 		text-align:center;
 		padding-top:21px;
