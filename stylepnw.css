@@ -1014,11 +1014,13 @@
 		font-weight:300;
 		margin:10px 0 0;
 		color: #fff;
+		font-family: 'Roboto', sans-serif;
 	}
 
 	.f-box .f-box-desc{
 		font-size:14px;
 		color: #fff;
+		font-family: 'Roboto', sans-serif;
 	}
 
 /* Features Box Strips */
