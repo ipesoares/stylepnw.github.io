@@ -1018,9 +1018,10 @@
 	}
 
 	.f-box .f-box-desc{
-		font-size:14px;
+		font-size:15px;
 		color: #fff;
 		font-family: 'Roboto', sans-serif;
+		letter-spacing: .6px;
 	}
 
 /* Features Box Strips */
